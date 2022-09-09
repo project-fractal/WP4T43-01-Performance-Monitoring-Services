@@ -1,0 +1,3 @@
+[submodule "edgesu"]
+	path = edgesu
+	url = git@gitlab-internal.bsc.es:caos_hw/hdl_ip/edgesu.git
