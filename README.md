@@ -6,3 +6,5 @@ Services to configure the multicore-aware monitoring unit and retrieve informati
 
 Please follow the link to the edgeSU repo where you can find an example application of how to configure the EdgeSU to monitor and retrieve the amount 
 of contention generated.
+
+LINK: <https://gitlab.bsc.es/caos_hw/hdl_ip/edgesu>
